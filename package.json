@@ -1,0 +1,15 @@
+{
+  "name": "revisaowebrest",
+  "version": "1.0.0",
+  "description": "Reviao aula B. Catao",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index01.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luanna",
+  "license": "ISC",
+  "dependencies": {
+    "qrcode-terminal": "^0.12.0"
+  }
+}
